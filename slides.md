@@ -56,8 +56,6 @@ Note:
 * Immutability
 * `Option`
 * The M word
-* `Either`
-* The A word
 
 ---
 
